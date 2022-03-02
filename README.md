@@ -1,6 +1,6 @@
 # Hi there, I'm Estevão 👋 
 
-## I'm a Mechanical Engineer Master's student!
+## I'm a Mechanical Engineer and Msc. Student at FEIS/UNESP, Ilha Solteira - SP, Brazil
 
 - 🧬 I’m currently learning about Structural Health Monitoring and Artificial Immune Systems;
 - 👯 I’m looking to collaborate with other professionals, contributing to the area;
