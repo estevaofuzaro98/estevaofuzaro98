@@ -2,10 +2,10 @@
 
 ## I'm a Master's student of Mechanical Engineer!
 
-- 🧬 I’m currently learning about Structural Health Monitoring and Artificial Immune Systems
-- 👯 I’m looking to collaborate with other professionals, improving the area
-- 🥅 2022 Goals: Learn more about Python and become a polyglot
-- ⚡ Fun fact: I love Tabletop RPGs and to play guitar / sing
+- 🧬 I’m currently learning about Structural Health Monitoring and Artificial Immune Systems;
+- 👯 I’m looking to collaborate with other professionals, contributing to the area;
+- 🥅 2022 Goals: Learn more about Python and become a polyglot;
+- ⚡ Fun fact: I love Tabletop RPGs and to play guitar/sing.
 
 ### Connect with me:
 
