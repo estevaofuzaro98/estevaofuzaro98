@@ -31,5 +31,3 @@
 ---
 
 <img align="left" alt="estevaofuzaro98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true&theme=tokyonight" />
-
-![Estevão's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true&theme=tokyonight)
