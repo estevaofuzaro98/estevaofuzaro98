@@ -26,6 +26,9 @@
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
 
+<br />
+<br />
+
 ---
 
-<img align="left" alt="estevaofuzaro98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true" />
+<img align="left" alt="estevaofuzaro98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true&theme=tokyonight" />
