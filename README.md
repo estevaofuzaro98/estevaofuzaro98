@@ -34,5 +34,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaofuzaro98&layout=compact&langs_count=7&hide_border=true&theme=tokyonight"/>
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Snake animation](https://github.com/rafaballerini/estevaofuzaro98/blob/output/github-contribution-grid-snake.svg)
