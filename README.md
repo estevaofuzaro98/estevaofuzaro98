@@ -1,4 +1,4 @@
-![EstevaoLogo.png](img/EstevaoLogo.png)
+![EstevaoLogo98.png](img/EstevaoLogo98.png)
 
 # Hi there, I'm Estevão 👋
 
