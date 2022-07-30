@@ -1,4 +1,6 @@
-# Hi there, I'm Estevão 👋 
+![EstevaoLogo.png](img/EstevaoLogo.png)
+
+# Hi there, I'm Estevão 👋
 
 ## I'm a Mechanical Engineer and Msc. Student
 - 🧬 I’m currently learning about `Structural Health Monitoring` and `Artificial Immune Systems`;
