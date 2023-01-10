@@ -3,9 +3,9 @@
 # Hi there, I'm Estevão 👋
 
 ## I'm a Mechanical Engineer and Msc. Student
-- 🧬 I’m currently learning about `Structural Health Monitoring` and `Artificial Immune Systems`;
+- 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
-- 🥅 2022 Goals: Learn more about `Python` and become a `polyglot`;
+- 🥅 2023 Goals: Learn more about `Python`, `PINNs` and become a `polyglot`;
 - ⚡ Fun fact: I love `Tabletop RPGs` and to play `guitar/sing`.
 
 ### Connect with me:
