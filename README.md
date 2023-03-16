@@ -37,7 +37,3 @@
 </div>
 
   ![Snake animation](https://github.com/estevaofuzaro98/estevaofuzaro98/blob/output/github-contribution-grid-snake.svg)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true&theme=dark)
-
-![Metrics](https://metrics.lecoq.io/estevaofuzaro98?template=classic)
