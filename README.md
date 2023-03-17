@@ -2,7 +2,7 @@
 
 # Hi there, I'm Estevão 👋
 
-## I'm a Mechanical Engineer and Msc. Student
+## I'm a Mechanical Engineer and PhD Student
 - 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
 - 🥅 2023 Goals: Learn more about `Python`, `PINNs` and become a `polyglot`;
@@ -37,3 +37,5 @@
 </div>
 
   ![Snake animation](https://github.com/estevaofuzaro98/estevaofuzaro98/blob/output/github-contribution-grid-snake.svg)
+
+  ![Metrics](https://metrics.lecoq.io/estevaofuzaro98?template=classic&isocalendar=1&languages=1&people=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&config.timezone=America%2FSao_Paulo&config.twemoji=true&config.octicon=true)
