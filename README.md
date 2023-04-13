@@ -30,8 +30,4 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/estevaofuzaro98?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=estevaofuzaro98&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ![Snake animation](https://github.com/estevaofuzaro98/estevaofuzaro98/blob/output/github-contribution-grid-snake.svg)
