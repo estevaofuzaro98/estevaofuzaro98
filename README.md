@@ -6,7 +6,7 @@
 - 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
 - 🥅 2023 Goals: Learn more about `Python`, `PINNs` and become a `polyglot`;
-- ⚡ Fun fact: I love `Tabletop RPGs` and to play `guitar/sing`.
+- ⚡ Fun fact: I love `Tabletop RPGs` and to play `guitar/violin/sing`.
 
 ### Connect with me:
 
