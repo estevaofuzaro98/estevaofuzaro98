@@ -2,7 +2,7 @@
 
 # Hi there, I'm Estevão 👋
 
-## I'm a M.Sc. Mechanical Engineer and D.Sc. Student
+## I'm a M.Sc. in Mechanical Engineering and a D.Sc. Student
 - 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
 - 🥅 2023 Goals: Learn more about `Python`, `PINNs` and become a `polyglot`;
