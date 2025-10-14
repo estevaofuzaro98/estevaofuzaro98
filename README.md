@@ -1,5 +1,3 @@
-![EstevaoLogo98.png](img/EstevaoLogo98.png)
-
 # Hi there, I'm Estevão 👋
 
 ## I'm a M.Sc. in Mechanical Engineering and a D.Sc. Student
