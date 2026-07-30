@@ -3,7 +3,7 @@
 ## I'm a M.Sc. in Mechanical Engineering and a D.Sc. Student
 - 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
-- 🥅 2025 Goals: Learn more about `Python`, `PINNs`, `Neural Calibration` and become a `polyglot`;
+- 🥅 2026 Goals: Learn more about `Python`, `PINNs`, `Neural Calibration` and become a `polyglot`;
 - ⚡ Fun fact: I love `Tabletop RPGs` and to play `guitar/sing`.
 
 ### Connect with me:
