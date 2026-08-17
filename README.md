@@ -8,17 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://taggo.one/estevaofuzaro#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://taggo.one/estevaofuzaro#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/estevaofuzaro#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/estevaofuzaro#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/estevaofuzaro#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/estevaofuzaro#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/estevaofuzaro)
+
+<br />
 
 ### Languages and Tools:
-
 
 [<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/products/matlab.html)
