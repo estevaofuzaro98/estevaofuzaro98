@@ -1,6 +1,6 @@
 # Hi there, I'm Estevão 👋
 
-## I'm a M.Sc. in Mechanical Engineering and a D.Sc. Student
+## I'm a MSc in Mechanical Engineering and a PhD Candidate
 - 🧬 I’m currently learning about `Physics-Informed Machine Learning`;
 - 👯 I’m looking to collaborate with other `professionals`, contributing to the `area`;
 - 🥅 2026 Goals: Learn more about `Python`, `PINNs`, `Neural Calibration` and become a `polyglot`;
