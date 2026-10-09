@@ -32,7 +32,7 @@ I work where structural dynamics meets machine learning: physics-informed neural
   <a href="https://www.python.org"><img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>&nbsp;
   <a href="https://jupyter.org"><img alt="Jupyter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></a>&nbsp;
   <a href="https://www.tensorflow.org"><img alt="TensorFlow" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>&nbsp;
-  <a href="https://www.latex-project.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/latex/white" /><img alt="LaTeX" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></picture></a>&nbsp;
+  <a href="https://www.latex-project.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/latex-dark.svg" /><img alt="LaTeX" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></picture></a>&nbsp;
   <a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></a>&nbsp;
   <a href="https://www.anaconda.com"><img alt="Anaconda" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></a>&nbsp;
   <a href="https://code.visualstudio.com"><img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
