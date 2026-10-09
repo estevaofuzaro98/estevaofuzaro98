@@ -1,6 +1,6 @@
 # Hi, I'm Estevão 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Physics-Informed+Machine+Learning;Neural+Calibration;Structural+Dynamics+%26+SHM&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1200&color=F7F7F7&background=00000039&vCenter=true&width=435&lines=Physics-Informed+Machine+Learning;Neural+Calibration;Structural+Dynamics+%26+SHM)](https://git.io/typing-svg)
 
 **PhD Candidate in Mechanical Engineering at FEIS/UNESP** · MSc in Mechanical Engineering · 📍 Ilha Solteira, SP, Brazil
 
@@ -32,7 +32,7 @@ I work where structural dynamics meets machine learning: physics-informed neural
   <a href="https://www.python.org"><img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>&nbsp;
   <a href="https://jupyter.org"><img alt="Jupyter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></a>&nbsp;
   <a href="https://www.tensorflow.org"><img alt="TensorFlow" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>&nbsp;
-  <a href="https://numpy.org"><img alt="NumPy" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>&nbsp;
+  <a href="https://www.latex-project.org"><img alt="LaTeX" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>&nbsp;
   <a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></a>&nbsp;
   <a href="https://www.anaconda.com"><img alt="Anaconda" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></a>&nbsp;
   <a href="https://code.visualstudio.com"><img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
