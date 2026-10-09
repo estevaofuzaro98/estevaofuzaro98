@@ -9,7 +9,7 @@ I work where structural dynamics meets machine learning: physics-informed neural
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyLjUiLz48cmVjdCB4PSIxLjgiIHk9IjgiIHdpZHRoPSI0LjQiIGhlaWdodD0iMTQiLz48cGF0aCBkPSJNOSA4aDQuMnYyYy44LTEuNCAyLjQtMi40IDQuNi0yLjQgMy42IDAgNC4yIDIuNCA0LjIgNS41VjIyaC00LjR2LTcuNmMwLTEuOC0uNC0zLTItM3MtMi4yIDEuMy0yLjIgM1YyMkg5eiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge)](https://linkedin.com/in/estevaofuzaro)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=nZGsP4UAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Estevao-Almeida)
-[![ORCID](https://img.shields.io/badge/-%20-A6CE39?logo=orcid&logoColor=white&style=for-the-badge)](https://orcid.org/0000-0001-7406-8698)
+[![ORCID](https://img.shields.io/badge/ORCiD-%20-A6CE39?logo=orcid&logoColor=white&style=for-the-badge)](https://orcid.org/0000-0001-7406-8698)
 
 ---
 
